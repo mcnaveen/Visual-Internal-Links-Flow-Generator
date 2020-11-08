@@ -29,5 +29,9 @@ node server.js
 ```bash
 http://localhost:8080/html/d3tree.html?url=../output/https___example.com/crawl.json
 ```
+
+### Sample
+### ![Sample](https://raw.githubusercontent.com/mcnaveen/Visual-Internal-Links-Flow-Generator/main/image.png)
+
 ### Credits
 [@ebidel](https://github.com/ebidel) & Puppeteer 
