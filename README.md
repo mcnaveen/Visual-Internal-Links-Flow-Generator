@@ -27,5 +27,7 @@ node server.js
 - Replace example.com with your actual domain
 
 ```bash
-http://localhost:8080/html/d3tree.html?url=../output/https___`example.com`/crawl.json
+http://localhost:8080/html/d3tree.html?url=../output/https___example.com/crawl.json
 ```
+### Credits
+[@ebidel](https://github.com/ebidel) & Puppeteer 
