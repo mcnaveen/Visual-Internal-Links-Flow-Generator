@@ -3,11 +3,11 @@
 
 ### 🍉 Clone the Repo
 ```bash
-git clone https://github.com/mcnaveen/Visual-Internal-Links-Flow-Generator
+git clone https://github.com/mcnaveen/Visual-Internal-Links-Flow-Generator vilfg
 ```
 ### ⛷️ cd into Directory
 ```bash
-cd Visual-Internal-Links-Flow-Generator
+cd vilfg
 ```
 ### 🌟 Install NPM Packages
 ```bash
