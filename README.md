@@ -5,7 +5,7 @@
 ```bash
 git clone https://github.com/mcnaveen/Visual-Internal-Links-Flow-Generator vilfg
 ```
-### ⛷️ cd into Directory
+### ⛷️ cd into the Directory
 ```bash
 cd vilfg
 ```
