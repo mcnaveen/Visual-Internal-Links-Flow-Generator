@@ -3,11 +3,11 @@
 > Note: Except the `View in Browser` Part all should be run in Terminal/CMD
 ### 🍉 Clone the Repo
 ```bash
-git clone https://github.com/mcnaveen/Visual-Internal-Links-Flow-Generator vilfg
+git clone https://github.com/mcnaveen/Visual-Internal-Links-Flow-Generator visualflow
 ```
 ### ⛷️ cd into the Directory
 ```bash
-cd vilfg
+cd visualflow
 ```
 ### 🌟 Install NPM Packages
 ```bash
