@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "del": "^6.0.0",
-    "express": "^4.17.3",
+    "express": "^4.18.1",
     "fs": "0.0.2",
     "puppeteer": "^14.1.1",
     "sharp": "^0.30.5",
